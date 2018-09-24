@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+  <file>
+    <filename>..\src\hust-sandbox\script\AgentUtilities.lua</filename>
+  </file>
+  <file>
+    <filename>..\src\demo_framework\script\DebugUtilities.lua</filename>
+  </file>
+  <file>
+    <filename>..\src\hust-sandbox\script\FollowerAgent.lua</filename>
+  </file>
+  <file>
+    <filename>..\src\demo_framework\script\GUI.lua</filename>
+  </file>
+  <file>
+    <filename>..\src\hust-sandbox\script\PathingAgent.lua</filename>
+  </file>
+  <file>
+    <filename>..\src\hust-sandbox\script\PursuingAgent.lua</filename>
+  </file>
+  <file>
+    <filename>..\src\hust-sandbox\script\Sandbox.lua</filename>
+  </file>
+  <file>
+    <filename>..\src\hust-sandbox\script\SandboxUtilities.lua</filename>
+  </file>
+  <file>
+    <filename>..\src\hust-sandbox\script\SeekingAgent.lua</filename>
+  </file>
+</project>
